@@ -31,3 +31,4 @@ msbuild.err
 msbuild.wrn
 /src/.vs
 /src/Core.Common/.vs
+/src/NuGet.Config
