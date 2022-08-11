@@ -6,8 +6,8 @@
     <Nullable>enable</Nullable>
     <RepositoryUrl>https://github.com/4Listen/core.common/</RepositoryUrl>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Company>EsdrasRR</Company>
-    <Version>1.0.1</Version>
+    <Company>4Listen</Company>
+    <Version>1.0.2</Version>
     <PackageProjectUrl>https://github.com/4Listen</PackageProjectUrl>
     <NeutralLanguage>aa-ER</NeutralLanguage>
     <Description>- Differents types of generic classes for:
@@ -20,7 +20,8 @@
 - Aggregator class.
 - DefaultLoggingEvents class.
 - ParameterProvider.
-- AutoIncrementProvicer.</Description>  
+- AutoIncrementProvicer.</Description>
+    <Authors>4Listen-EsdrasRR</Authors>  
   </PropertyGroup>
 
   <ItemGroup>
