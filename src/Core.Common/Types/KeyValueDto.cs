@@ -40,13 +40,13 @@ namespace Core.Common.Types
 		public string Value { get; set; }
 	}
 
-	public class ChaveValorDto
+	public class KeyValueDto
 	{
-		public ChaveValorDto()
+		public KeyValueDto()
 		{
 		}
 
-		public ChaveValorDto(string key, string value)
+		public KeyValueDto(string key, string value)
 		{
 			Key = key;
 			Value = value;

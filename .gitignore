@@ -30,5 +30,5 @@ msbuild.log
 msbuild.err
 msbuild.wrn
 /src/.vs
-/src/Core.Common/.vs
+/src/Core.Mediatr/.vs
 /src/NuGet.Config
